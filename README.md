@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NLP chat Bot<br>👯 I’m looking to collaborate on Deep Learning<br>🤝 I’m looking for help with 🥱<br>🌱 I’m currently learning MLOPS<br>💬 Ask me about Machine Leaning, Deep Learning<br>⚡ Fun fact 🤐
+🔭 I’m currently working on 🤐<br>👯 I’m looking to collaborate on Deep Learning<br>🤝 I’m looking for help with 🥱<br>🌱 I’m currently learning MLOPS<br>💬 Ask me about Machine Leaning, Deep Learning<br>⚡ Fun fact 🤐
 
 
 ## 🌐 Socials:
